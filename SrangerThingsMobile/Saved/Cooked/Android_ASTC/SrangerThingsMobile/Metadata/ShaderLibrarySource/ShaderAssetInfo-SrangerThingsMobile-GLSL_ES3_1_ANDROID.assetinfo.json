@@ -1,0 +1,496 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "43E1FE02A064C7718B8D0BBDB4925AD0E7E30805",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3D1262DECE7D245CBA3D402A41C925DABDB2F059",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A20CCECB95CEA4A69D1EA26786A40653847374B7",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "30662010B0A0690AE3C6D0DFB9D145936F020848",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D59998A73DC86FABC8D9B3E2B68BC6811D1962ED",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial",
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "50657690EC7EFC7F2BD8DF6D3B094D9502190454",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EF243C7C1393F8C78D3789C5DDA37C4A2079808E",
+			"Assets": [
+				"/OculusVR/Materials/TouchForQuestRiftSControllerMaterial",
+				"/Game/MobileHorrorAdvKit/Materials/M_Note_Example_Multiple_page_1",
+				"/Game/MobileHorrorAdvKit/Materials/M_Note_Example_1",
+				"/Game/MobileHorrorAdvKit/Materials/M_polaroid_photo_1",
+				"/Game/MobileHorrorAdvKit/Materials/M_polaroid_photo_2"
+			]
+		},
+		{
+			"ShaderMapHash": "E9F9E20E630158CA7475FB4F1780BD4AB5EFF2B5",
+			"Assets": [
+				"/OculusVR/Materials/touchController_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "BC213BC1E25A520F37CA2DA30A488184DB0A8953",
+			"Assets": [
+				"/OculusVR/Materials/OculusMR_OpaqueColoredMaterial",
+				"/Engine/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color"
+			]
+		},
+		{
+			"ShaderMapHash": "2166321B12281C85F014A41D3EE51E7506DD9F49",
+			"Assets": [
+				"/OculusVR/Materials/OculusMR_ChromaKey"
+			]
+		},
+		{
+			"ShaderMapHash": "E91F626E6112B40DDB7BF9FB8B8131E7BFAD4B0D",
+			"Assets": [
+				"/OpenXR/Devices/GoogleDaydream/MI_GoogleDaydream",
+				"/OpenXR/Devices/MicrosoftMixedReality/MI_MicrosoftMixedReality",
+				"/OpenXR/Devices/OculusTouch/MI_OculusTouch",
+				"/OpenXR/Devices/ValveIndex/Left/MI_left_ValveIndex",
+				"/OpenXR/Devices/OculusTouch_v2/MI_OculusTouch_v2",
+				"/OpenXR/Devices/OculusTouch_v3/MI_OculusTouch_v3"
+			]
+		},
+		{
+			"ShaderMapHash": "789994CE0F3FEE3950AC8E1F71381DDC531D999E",
+			"Assets": [
+				"/OpenXR/Devices/ValveIndex/Right/MI_right_ValveIndex"
+			]
+		},
+		{
+			"ShaderMapHash": "9F65E3BCF7778AD5EA08D9F46739407FA193A150",
+			"Assets": [
+				"/OpenXR/Devices/M_XRController"
+			]
+		},
+		{
+			"ShaderMapHash": "A5C5810F470383E69DA94ED98CC88F8CE49042FC",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "7FD9D3E6E3DF025E3FB310525E989EF0E8850F16",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "9FC49650774CD99B199CD3BC27E98EA23F0910D4",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "51C3F189488F6FC1C961E8B89DAF9BFB0210440D",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/WireframeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2AC4622E19649962D19C75CD8F6CF5C98427B42F",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/VertexColorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0A35620FC44E323EBB3286960B12A393C881EBD7",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A8D1B694A6DEC243574C7BDB234BDCD3486283CF",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "93D493D020A9200BD208265D239B0C1FBC51D585",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C1096E2DC6F2A3D638AE8E93FBDC90021713727B",
+			"Assets": [
+				"/OculusVR/Materials/PokeAHoleMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "5019A52B236DA624BE7C517515FB6E98A05CF5B2",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "F3C7398CE6C592B091F202DD86102178FA89FCCF",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "887DADCDD69C1DF04DE497160BC09205F972BF47",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "F6DFAABCBBEA90279C6AA6AEDD7A97FE84145572",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "89E5CF0A7E69554C7B2BC9CBE8B76B7DEDF93866",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided",
+				"/Engine/EngineMaterials/Widget3DPassThrough"
+			]
+		},
+		{
+			"ShaderMapHash": "3D54D34E1A3F63C42B564EB757401E57F13171AF",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "00AEB90748F369A2CDFDBF788014A726756FCFBC",
+			"Assets": [
+				"/Engine/EngineMaterials/BaseFlattenMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C808399BFD2ACA14C2016AB7106D87A816D2D944",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "3EF4A6EB0073FB7F0C1745511B68861A7072DB30",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7D45F6523AC090B01794B0F44DBB895533B0EDFB",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "23732AEC4DCC7997AFE2C07D6FDF53D8EB533130",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2FBEF3F66D8CA318FC17D794827324CD856DDC40",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2AD03E3A10A15CBED2AA9393884E12BF5FF570B7",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "8853FF192A993DFE4BDD261E19A06F7423D096F7",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "0BCEBA82B1FCEA2E16DAD3AC8A98C287AD2C49AD",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "3EF632251773053EB8A5B28EE0C0A00353E2CF42",
+			"Assets": [
+				"/Game/MobileHorrorAdvKit/Materials/M_black"
+			]
+		},
+		{
+			"ShaderMapHash": "FF40F83FF6138FA64064A49BB6E42D0A48439E8A",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "A489B79F7BAAAF1EF2B548E3F32713DD37147009",
+			"Assets": [
+				"/Game/MobileHorrorAdvKit/Materials/M_white"
+			]
+		},
+		{
+			"ShaderMapHash": "86700803E7D0F106ACE10BE9C217886A43F34118",
+			"Assets": [
+				"/Game/MobileHorrorAdvKit/Materials/M_Metal_Chrome"
+			]
+		},
+		{
+			"ShaderMapHash": "99F10EEDF21D27B921A5224264DC2D94D1F9CBD0",
+			"Assets": [
+				"/Game/MobileHorrorAdvKit/Materials/M_bowl"
+			]
+		},
+		{
+			"ShaderMapHash": "6C89E483563A9B6C66B5A316EE0C81E38A4C8214",
+			"Assets": [
+				"/Game/MobileHorrorAdvKit/Materials/M_Metal_Gold"
+			]
+		},
+		{
+			"ShaderMapHash": "F0623AFF4572C7A3B6F2AD030155ED5F80941E37",
+			"Assets": [
+				"/Game/MobileHorrorAdvKit/Materials/M_book_side"
+			]
+		},
+		{
+			"ShaderMapHash": "1E5393F78D116DB96B9BC08AD96252AC63035D4C",
+			"Assets": [
+				"/Game/MobileHorrorAdvKit/Materials/M_book_cover_1"
+			]
+		},
+		{
+			"ShaderMapHash": "66BD189B6E62D01D8F8F02987C404C888722D250",
+			"Assets": [
+				"/Game/MobileHorrorAdvKit/Materials/M_teddybear_nose_and_eyes",
+				"/Game/MobileHorrorAdvKit/Materials/M_ancient_tablet"
+			]
+		},
+		{
+			"ShaderMapHash": "B8A5F870655D69EF937939BA5027130D517620FB",
+			"Assets": [
+				"/Game/MobileHorrorAdvKit/Materials/M_teddybear_belly",
+				"/Game/MobileHorrorAdvKit/Materials/M_teddybear"
+			]
+		},
+		{
+			"ShaderMapHash": "70C6AEEF6B8C3DF304EEBB9ECB079E3E97D0374D",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "FE4972057596E68BDDFBF247E1E5BF3D9A2796B3",
+			"Assets": [
+				"/Game/MobileHorrorAdvKit/Materials/M_note_example_2"
+			]
+		},
+		{
+			"ShaderMapHash": "4AF5D088E48F0A8CF836FFC188AA9BEB30C68637",
+			"Assets": [
+				"/Game/MobileHorrorAdvKit/Materials/M_white_wood",
+				"/Game/MobileHorrorAdvKit/Materials/M_door"
+			]
+		},
+		{
+			"ShaderMapHash": "367C7F445D0ADCD170EE20D035F52DDB1C0DDA3E",
+			"Assets": [
+				"/Game/MobileHorrorAdvKit/Materials/M_wood_box",
+				"/Game/MobileHorrorAdvKit/Materials/M_cartoon_box_2",
+				"/Game/MobileHorrorAdvKit/Materials/M_cartoon_box_1",
+				"/Game/MobileHorrorAdvKit/Materials/M_ball",
+				"/Game/MobileHorrorAdvKit/Materials/M_wood"
+			]
+		},
+		{
+			"ShaderMapHash": "122B6FB1FE005B43A2499604EA92F85DAB147422",
+			"Assets": [
+				"/Game/MobileHorrorAdvKit/Materials/M_white_worn"
+			]
+		},
+		{
+			"ShaderMapHash": "836C02616254A3C53F69244B0451C360EE547DA2",
+			"Assets": [
+				"/Game/MobileHorrorAdvKit/Materials/M_glass"
+			]
+		},
+		{
+			"ShaderMapHash": "82A02D194076102E23C61CFF26F55A120C0F68A6",
+			"Assets": [
+				"/Game/MobileHorrorAdvKit/Materials/Material_Instances/MI_glass"
+			]
+		},
+		{
+			"ShaderMapHash": "5A71D52824B3D6A0A6AB8BDEBB5124F74019933A",
+			"Assets": [
+				"/Game/MobileHorrorAdvKit/Materials/M_wallpaper_6",
+				"/Game/MobileHorrorAdvKit/Materials/M_wallpaper_1",
+				"/Game/MobileHorrorAdvKit/Materials/M_book_cover_3",
+				"/Game/MobileHorrorAdvKit/Materials/M_wallpaper_2"
+			]
+		},
+		{
+			"ShaderMapHash": "A8B8816C14FF778AA9FB6C839FA96282C7A29D50",
+			"Assets": [
+				"/Game/MobileHorrorAdvKit/Materials/M_wallpaper_8",
+				"/Game/MobileHorrorAdvKit/Materials/M_wallpaper_4",
+				"/Game/MobileHorrorAdvKit/Materials/M_Wallpaper_7"
+			]
+		},
+		{
+			"ShaderMapHash": "8C17A10AE168DC21BC2D26B3DB4829D5E054CDEA",
+			"Assets": [
+				"/Game/MobileHorrorAdvKit/Materials/M_black_2"
+			]
+		},
+		{
+			"ShaderMapHash": "07CF505C41EF2BB0BD2E7B7A3922C183F77D65BF",
+			"Assets": [
+				"/Game/MobileHorrorAdvKit/Materials/M_polaroid_text",
+				"/Game/MobileHorrorAdvKit/Materials/M_picture"
+			]
+		},
+		{
+			"ShaderMapHash": "87CA6EB08C4AEE89E9CEA37793A9FFD3A79DDA83",
+			"Assets": [
+				"/Game/MobileHorrorAdvKit/Materials/M_frame_painting",
+				"/Game/MobileHorrorAdvKit/Materials/M_frame_1"
+			]
+		},
+		{
+			"ShaderMapHash": "270C4C91BAC4443F08DE098F8E310FDA29697C4B",
+			"Assets": [
+				"/Game/MobileHorrorAdvKit/Materials/M_carpet"
+			]
+		},
+		{
+			"ShaderMapHash": "5CE30610E8964EDAD5E0B17FF05E668C1A67A804",
+			"Assets": [
+				"/Game/MobileHorrorAdvKit/Materials/M_book_cover_4",
+				"/Game/MobileHorrorAdvKit/Materials/M_book_cover_2"
+			]
+		},
+		{
+			"ShaderMapHash": "A58192234BA0D9032CB61F5403A4511E50FCDB65",
+			"Assets": [
+				"/Game/MobileHorrorAdvKit/Materials/M_award",
+				"/Game/MobileHorrorAdvKit/Materials/M_tiles_2",
+				"/Game/MobileHorrorAdvKit/Materials/M_Tiles"
+			]
+		},
+		{
+			"ShaderMapHash": "EE159751AB1A0DC95DE7CFC6152CDB0331FF580F",
+			"Assets": [
+				"/Game/MobileHorrorAdvKit/Materials/M_Wood_Floor_Walnut_Worn"
+			]
+		},
+		{
+			"ShaderMapHash": "401C978036EE5B76711C38A3AC78D96FE007AD2D",
+			"Assets": [
+				"/Game/MobileHorrorAdvKit/Materials/M_Water_Lake"
+			]
+		},
+		{
+			"ShaderMapHash": "502FF58D03314DBE6D08245695034F3923D14263",
+			"Assets": [
+				"/Game/MobileHorrorAdvKit/Materials/M_Concrete_Tiles"
+			]
+		},
+		{
+			"ShaderMapHash": "F1B421550DC584700A7EFE2072C821764B5A5726",
+			"Assets": [
+				"/Game/MobileHorrorAdvKit/Materials/M_tiles_3"
+			]
+		},
+		{
+			"ShaderMapHash": "F34B750EA7B1B66AAF7B678A57B4506B1EE93FC4",
+			"Assets": [
+				"/Game/MobileHorrorAdvKit/Materials/M_Snow"
+			]
+		},
+		{
+			"ShaderMapHash": "8C1D6477D7213C5AB075D54D797D150457DCDB96",
+			"Assets": [
+				"/Game/MobileHorrorAdvKit/Materials/M_Metal_Rust"
+			]
+		},
+		{
+			"ShaderMapHash": "2327FD0E125264680464E4AEEEDDE8A2347D17C3",
+			"Assets": [
+				"/Game/MobileHorrorAdvKit/Materials/M_Ground_Grass"
+			]
+		},
+		{
+			"ShaderMapHash": "CEE24927FBCC0B5FEF71A8608E711CC0C7CE03F9",
+			"Assets": [
+				"/Game/MobileHorrorAdvKit/Materials/M_brick_wall"
+			]
+		},
+		{
+			"ShaderMapHash": "205665EE3DDCE47046F4D74619B33320F46C9739",
+			"Assets": [
+				"/Game/MobileHorrorAdvKit/Materials/M_Brick_Clay_Old"
+			]
+		},
+		{
+			"ShaderMapHash": "6FBEACC9299B0BFA672A64D5F649E392C0029EA8",
+			"Assets": [
+				"/Game/MobileHorrorAdvKit/Materials/M_wallpaper_5"
+			]
+		},
+		{
+			"ShaderMapHash": "E71C539784B5B6A6E21875BF24FAF0317684A27E",
+			"Assets": [
+				"/Game/MobileHorrorAdvKit/Materials/M_frame_2"
+			]
+		},
+		{
+			"ShaderMapHash": "8C9D6EC4BCD2A75C490C12094EA268E86AA3A622",
+			"Assets": [
+				"/Game/MobileHorrorAdvKit/Blueprints/Ai_enemy/Mannequin/Character/Materials/M_UE4Man_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "EBABDB693842E49BC97342BAFB1EE8762CED6FFF",
+			"Assets": [
+				"/Game/MobileHorrorAdvKit/Materials/M_Emissive"
+			]
+		},
+		{
+			"ShaderMapHash": "F8384C244658F8DBE90A8B2566BAA9D0A92EDC84",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A5C155FEF855899661C9299B99A1271AEF090A19",
+			"Assets": [
+				"/Game/MobileHorrorAdvKit/Blueprints/Ai_enemy/Mannequin/Character/Materials/M_UE4Man_ChestLogo"
+			]
+		}
+	]
+}
